@@ -22,10 +22,11 @@ I'm a passionate software engineer with a knack for creating innovative solution
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
+<!--
 ## 📊 My GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=afish3&show_icons=true&include_all_commits=true&theme=radical)
+-->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afish3&hide_progress=true)
 
