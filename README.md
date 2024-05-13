@@ -35,19 +35,20 @@ I'm a passionate software engineer with a knack for creating innovative solution
 - 💼 [LinkedIn](https://www.linkedin.com/in/aedan-fish)
 - 📧 [Email](mailto:aedanakfish3@gmail.com)
 - 🌍 [Portfolio](https://aedansoftware.onrender.com)
-
+<!--
 ## 🔥 My Latest Projects
 
 - [Project 1](https://github.com/yourusername/project1) - A revolutionary app that transforms the way people interact with technology
 - [Project 2](https://github.com/yourusername/project2) - An intelligent system that predicts the future of coding
 - [Project 3](https://github.com/yourusername/project3) - A game-changing platform that connects developers worldwide
+-->
 
 ## 🌟 Fun Facts
 
 - 🎸 I'm a secret rockstar and have performed in front of thousands of people
-- 🌍 I've traveled to a dozen countries and love exploring new cultures
-- 🎮 I'm a gaming enthusiast and have won several gaming tournaments
-- 🍳 I make the best pancakes in town (according to my family and friends)
+- 🌍 I've traveled to a handful of countries and love experiencing new cultures
+- 🎥 I'm a recent movie enthusiast and am catching up on the classics
+- 🍞 I am a baker and love to make soourdough breads of all sorts
 
 Feel free to explore my repositories and join me on this exciting coding journey! 🚀✨
 
