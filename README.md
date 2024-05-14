@@ -2,6 +2,10 @@
 
 ![Banner  (1)](https://github.com/Afish3/afish3/assets/126503317/98928b56-c857-4696-937e-410cd320ee00)
 
+<!--
+![Vid Banner](https://github.com/Afish3/afish3/assets/126503317/cf45f34e-4a40-4808-ade8-79184ac086fb)
+-->
+
 ## 👋 Hi there! I'm Aedan
 
 I'm a passionate software engineer with a knack for creating innovative solutions and bringing ideas to life through code. With a diverse skill set and an insatiable curiosity, I'm always eager to take on new challenges and explore the latest technologies.
