@@ -1,10 +1,8 @@
 # 🚀 Welcome to My GitHub! 🌟
-
-![Banner  (1)](https://github.com/Afish3/afish3/assets/126503317/98928b56-c857-4696-937e-410cd320ee00)
-
 <!--
 ![Vid Banner](https://github.com/Afish3/afish3/assets/126503317/cf45f34e-4a40-4808-ade8-79184ac086fb)
 -->
+![Banner  (2)](https://github.com/Afish3/afish3/assets/126503317/22d2f60d-d90c-446d-bc79-3ac6dbecbb19)
 
 ## 👋 Hi there! I'm Aedan
 
