@@ -51,7 +51,7 @@ I'm a passionate software engineer with a knack for creating innovative solution
 - 🎸 I'm a secret rockstar and have performed in front of thousands of people
 - 🌍 I've traveled to a handful of countries and love experiencing new cultures
 - 🎥 I'm a recent movie enthusiast and am catching up on the classics
-- 🍞 I am a baker and love to make soourdough breads of all sorts
+- 🍞 I am a baker and love to make sourdough breads of all sorts
 
 Feel free to explore my repositories and join me on this exciting coding journey! 🚀✨
 
